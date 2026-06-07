@@ -1,0 +1,11 @@
+[package]
+name = "glyph-language"
+version = "0.1.0"
+edition = "2021"
+description = "Cognitive primitive glyphs — 32 fundamental operations for agent cognition"
+license = "MIT"
+keywords = ["glyph", "cognitive", "language", "primitives", "agent"]
+categories = ["data-structures", "parser-implementations"]
+repository = "https://github.com/SuperInstance/glyph-language"
+
+[dependencies]
